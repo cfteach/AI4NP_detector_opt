@@ -1,5 +1,6 @@
-# AI4NP_detector-opt
+# AI4NP_detector-opt (Detector Design Optimization)
 
+https://www.jlab.org/remote-ai4np-winter-school
 
 -----------------------------------------------------------------------------------------------------
 Exercise 1
