@@ -1,5 +1,6 @@
 #-------- credits:
 # detector toy model inspired to example from Yandex, yandex.com
+# readapted and expanded for AI4NP --- C.F. 
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -130,19 +131,21 @@ def geometry_display(Z, Y, R, y_min=-10, y_max=10, block=True, pause =5):
     #timer = fig.canvas.new_timer(interval = 3000) #creating a timer object and setting an interval of 3000 milliseconds
     #timer.add_callback(close_event)
     #timer.start()
-
-
-    plt.show()
+    #plt.show()
 
     """
-    plt.show(block=block) #block python execution
+    #plt.show(block=block) #block python execution
     if(block==False):
       if(pause==-1):
-        plt.ion()
+        #plt.figure(0)
+        #plt.ion()
         #plt.show()
+        pass 
       else:
-        plt.pause(pause)
-        plt.close()
+        #plt.pause(pause)
+        #plt.close()
+        pass
+
     """
 
     #num_wires = len(Y_flat)
@@ -232,20 +235,21 @@ def tracks_display(tracks, Z, block=True, pause=5):
     #timer.start()
     #plt.show()
 
-    plt.show()
+    #plt.show()
 
-    """
+    
     plt.show(block=block)
 
     if(block==False):
       if(pause==-1):
-        plt.ion()
-        #plt.show()
+        #plt.figure(0)
+        #plt.ion()
+        plt.show()
       else:
         plt.pause(pause)
         plt.close()
         #plt.show()
-    """
+    
 
 
 def get_score(Z, Y, tracks, R):
