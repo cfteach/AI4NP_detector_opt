@@ -4,9 +4,10 @@ https://www.jlab.org/remote-ai4np-winter-school
 
 -----------------------------------------------------------------------------------------------------
 Exercise 1
-
+https://colab.research.google.com/github//cfteach/AI4NP_detector_opt/blob/master/exc1/driver_bo.ipynb
 
 Solution 1
+https://colab.research.google.com/github//cfteach/AI4NP_detector_opt/blob/master/sol1/driver_bo.ipynb
 
 -----------------------------------------------------------------------------------------------------
 Exercise 2
