@@ -11,14 +11,14 @@ https://colab.research.google.com/github//cfteach/AI4NP_detector_opt/blob/master
 
 -----------------------------------------------------------------------------------------------------
 Exercise 2
-https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/exe2/driver_moo.ipynb 
+https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/exe2/exe2_moo.ipynb 
 
 Solution 2
 https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/sol2/driver_moo.ipynb 
 
 -----------------------------------------------------------------------------------------------------
 Exercise 3
-https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/exe3/driver_moo_3obj.ipynb 
+https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/exe3/exe3_moo_3obj.ipynb 
 
 Solution 3
 https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/sol3/driver_moo_3obj.ipynb 
