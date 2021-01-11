@@ -4,7 +4,7 @@ https://www.jlab.org/remote-ai4np-winter-school
 
 -----------------------------------------------------------------------------------------------------
 Exercise 1
-https://colab.research.google.com/github//cfteach/AI4NP_detector_opt/blob/master/exe1/driver_bo.ipynb
+https://colab.research.google.com/github//cfteach/AI4NP_detector_opt/blob/master/exe1/exe1_BO.ipynb
 
 Solution 1
 https://colab.research.google.com/github//cfteach/AI4NP_detector_opt/blob/master/sol1/driver_bo.ipynb
