@@ -4,7 +4,7 @@ https://www.jlab.org/remote-ai4np-winter-school
 
 The folder "lectures" contains the slides. 
 
-For the exercises we will use colab 
+For the exercises we will use colab: 
 
 -----------------------------------------------------------------------------------------------------
 Exercise 1
