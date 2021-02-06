@@ -41,3 +41,7 @@ Solution 3
 https://colab.research.google.com/github/cfteach/AI4NP_detector-opt/blob/master/sol3/driver_moo_3obj.ipynb 
 
 -----------------------------------------------------------------------------------------------------
+
+
+Cristiano Fanelli, cfanelli@mit.edu
+
