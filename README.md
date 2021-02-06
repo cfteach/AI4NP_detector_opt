@@ -4,7 +4,7 @@ https://www.jlab.org/remote-ai4np-winter-school
 
 The folder "lectures" contains the slides:
 
-- 1st hour: Introduction to Detector Design, Bayesian Optimization, the EIC dual-RICH example; real-world applications. 
+- 1st hour: Introduction to Detector Design with Artificial Intelligence, Bayesian Optimization, the EIC dual-RICH example; real-world applications. 
   
   (intro to Exercise 1)
 
